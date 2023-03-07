@@ -1,7 +1,7 @@
 # Bikesharing
 
-## Purpose
-The purpose of this analysis is to use Citibike data from New York City to determine if the same type of business can be created in Des Moines Iowa. There is one thing to take into account. These two cities are very different when it comes to population. Even though the populations are very different there are several questions we can ask that will give us insight into starting the business in Iowa.
+## Goals
+The goal of this analysis is to use Citibike data from New York City to determine if the same type of business can be created in Des Moines Iowa. There is one thing to take into account. These two cities are very different when it comes to population. Even though the populations are very different there are several questions we can ask that will give us insight into starting the business in Iowa.
 - How long are the bikes checkout for?
 - What is the target demographic?
 - When during the week is the service most used?
